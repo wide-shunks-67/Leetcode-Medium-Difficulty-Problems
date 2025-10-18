@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
