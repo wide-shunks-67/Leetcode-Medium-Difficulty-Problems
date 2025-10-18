@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
