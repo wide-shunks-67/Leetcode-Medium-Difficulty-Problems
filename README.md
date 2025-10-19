@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0008-string-to-integer-atoi) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
