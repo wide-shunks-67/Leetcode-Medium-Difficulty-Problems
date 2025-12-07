@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Greedy
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
