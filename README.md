@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Greedy
@@ -76,8 +77,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
