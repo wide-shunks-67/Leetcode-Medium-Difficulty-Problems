@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0088-merge-sorted-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Math
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
 | [3794-reverse-string-prefix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
