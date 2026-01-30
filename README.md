@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0050-powx-n) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
