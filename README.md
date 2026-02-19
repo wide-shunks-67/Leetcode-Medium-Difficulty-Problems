@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0006-zigzag-conversion](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0696-count-binary-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0696-count-binary-substrings) |
 | [3794-reverse-string-prefix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3794-reverse-string-prefix) |
 | [3803-count-residue-prefixes](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3803-count-residue-prefixes) |
 ## Linked List
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0696-count-binary-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0696-count-binary-substrings) |
 | [3794-reverse-string-prefix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
