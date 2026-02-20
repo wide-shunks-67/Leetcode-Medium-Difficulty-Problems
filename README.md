@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0696-count-binary-substrings) |
 | [3794-reverse-string-prefix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3794-reverse-string-prefix) |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0493-reverse-pairs) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
