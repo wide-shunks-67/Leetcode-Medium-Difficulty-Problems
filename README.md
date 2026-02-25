@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2965-find-missing-and-repeated-values](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3803-count-residue-prefixes) |
+| [3815-design-auction-system](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3815-design-auction-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0493-reverse-pairs) |
+| [3815-design-auction-system](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3815-design-auction-system) |
 ## Stack
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [3815-design-auction-system](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3815-design-auction-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Design
+|  |
+| ------- |
+| [3815-design-auction-system](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3815-design-auction-system) |
 <!---LeetCode Topics End-->
