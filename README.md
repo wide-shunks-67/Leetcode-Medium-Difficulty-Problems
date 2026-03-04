@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0493-reverse-pairs) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0074-search-a-2d-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
