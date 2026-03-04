@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0018-4sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0451-sort-characters-by-frequency](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0696-count-binary-substrings) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
