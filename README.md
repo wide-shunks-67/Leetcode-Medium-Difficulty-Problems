@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
