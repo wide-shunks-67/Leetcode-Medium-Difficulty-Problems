@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0493-reverse-pairs) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Sorting
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0455-assign-cookies) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Math
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0696-count-binary-substrings) |
 | [3794-reverse-string-prefix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
