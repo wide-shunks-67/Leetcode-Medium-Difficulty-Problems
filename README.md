@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0062-unique-paths) |
