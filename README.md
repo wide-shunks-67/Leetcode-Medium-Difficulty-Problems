@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0069-sqrtx) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1903-largest-odd-number-in-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1922-count-good-numbers) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0493-reverse-pairs) |
