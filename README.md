@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Heap (Priority Queue)
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0225-implement-stack-using-queues) |
 | [3815-design-auction-system](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3815-design-auction-system) |
 ## Simulation
 |  |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
