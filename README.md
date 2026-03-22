@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0169-majority-element) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0493-reverse-pairs) |
 ## Counting
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Design
 |  |
@@ -314,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
