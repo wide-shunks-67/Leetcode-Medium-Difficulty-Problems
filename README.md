@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1470-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1980-find-unique-binary-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Matrix
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
