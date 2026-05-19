@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1980-find-unique-binary-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Matrix
