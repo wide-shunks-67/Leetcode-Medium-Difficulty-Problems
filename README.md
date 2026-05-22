@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0229-majority-element-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0493-reverse-pairs) |
