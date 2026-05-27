@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1980-find-unique-binary-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
