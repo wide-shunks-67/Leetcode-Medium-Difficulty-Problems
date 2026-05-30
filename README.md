@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1980-find-unique-binary-string) |
+| [2784-check-if-array-is-good](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3546-equal-sum-grid-partition-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0455-assign-cookies) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2784-check-if-array-is-good](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2784-check-if-array-is-good) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Math
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1980-find-unique-binary-string) |
+| [2784-check-if-array-is-good](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3803-count-residue-prefixes) |
