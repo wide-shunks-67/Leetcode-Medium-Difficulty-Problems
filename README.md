@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1980-find-unique-binary-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Sorting
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0455-assign-cookies) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2784-check-if-array-is-good) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Math
