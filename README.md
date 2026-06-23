@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1980-find-unique-binary-string) |
+| [2104-sum-of-subarray-ranges](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2784-check-if-array-is-good) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -438,4 +440,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
