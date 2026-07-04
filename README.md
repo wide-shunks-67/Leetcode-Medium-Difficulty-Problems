@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0118-pascals-triangle) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0322-coin-change) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1901-find-a-peak-element-ii) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0503-next-greater-element-ii) |
