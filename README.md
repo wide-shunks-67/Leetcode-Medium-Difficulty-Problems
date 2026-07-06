@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0402-remove-k-digits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0062-unique-paths) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
