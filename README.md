@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -276,11 +277,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0090-subsets-ii) |
 | [1980-find-unique-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
