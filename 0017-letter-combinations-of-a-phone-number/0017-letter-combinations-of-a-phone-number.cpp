@@ -1,42 +1,27 @@
 class Solution {
 private:
-    map<char,string>digitmap={
-            {'2',"abc"},
-            {'3',"def"},
-            {'4',"ghi"},
-            {'5',"jkl"},
-            {'6',"mno"},
-            {'7',"pqrs"},
-            {'8',"tuv"},
-            {'9',"wxyz"}
-        };
-    void backtrack(const string& digits, int index, string& currentcombination,vector<string>& result){
-        if(index==digits.length()){
-            result.push_back(currentcombination);
-            return;
-        }
-
-        char digit= digits[index];
-        const string& letters= digitmap.at(digit);
-
-        for( char letter: letters){
-
-            currentcombination.push_back(letter);
-            backtrack(digits,index+1,currentcombination,result);
-
-            currentcombination.pop_back();
-        }
+    map<char, string> digitmap = {{'2', "abc"}, {'3', "def"}, {'4', "ghi"},
+                                  {'5', "jkl"}, {'6', "mno"}, {'7', "pqrs"},
+                                  {'8', "tuv"}, {'9', "wxyz"}};
+    
+void solve(vector<string>&ans,string current, int index, string digits){
+    if(current.length()==digits.length()){
+        ans.push_back(current);
+        return;
     }
+    string letters= digitmap[digits[index]];
+    for(int i=0;i<letters.length();i++){
+        current+=letters[i];
+        solve(ans,current, index+1,digits);
+        current.pop_back();
+    }
+}
 public:
     vector<string> letterCombinations(string digits) {
         
-        vector<string>answer;
-        if(digits.empty()){
-            return answer;
-        }
-        
-        string current_combination="";
-        backtrack(digits,0,current_combination,answer);
-        return answer;
+        vector<string>ans;
+        if(digits.empty())return ans; 
+        solve(ans,"",0,digits);
+        return ans;
     }
 };
