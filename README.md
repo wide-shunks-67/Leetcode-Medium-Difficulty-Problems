@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0085-maximal-rectangle) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0216-combination-sum-iii) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0079-word-search) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
