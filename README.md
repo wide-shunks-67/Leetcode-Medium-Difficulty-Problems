@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0875-koko-eating-bananas) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0621-task-scheduler) |
 | [1903-largest-odd-number-in-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2784-check-if-array-is-good) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Combinatorics
@@ -398,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0621-task-scheduler) |
 | [3815-design-auction-system](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3815-design-auction-system) |
 ## Bucket Sort
 |  |
