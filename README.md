@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
