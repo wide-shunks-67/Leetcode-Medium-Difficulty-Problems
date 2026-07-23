@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0696-count-binary-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0931-minimum-falling-path-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
