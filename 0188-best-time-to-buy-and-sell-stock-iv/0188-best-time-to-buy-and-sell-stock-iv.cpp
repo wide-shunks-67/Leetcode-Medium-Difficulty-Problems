@@ -1,24 +1,46 @@
 class Solution {
 public:
-int f(int index, bool buy, vector<int>&prices, int trans, vector<vector<vector<int>>>&dp){
-    if(index==prices.size() || trans==0){
-        return 0;
+    int f(int index, bool buy, vector<int>& prices, int trans,
+          vector<vector<vector<int>>>& dp) {
+        if (index == prices.size() || trans == 0) {
+            return 0;
+        }
+        if (dp[index][buy][trans] != -1) {
+            return dp[index][buy][trans];
+        }
+
+        if (buy) {
+            return dp[index][buy][trans] =
+                       max(f(index + 1, 0, prices, trans, dp) - prices[index],
+                           f(index + 1, 1, prices, trans, dp));
+        }
+
+        return dp[index][buy][trans] =
+                   max(f(index + 1, 1, prices, trans - 1, dp) + prices[index],
+                       f(index + 1, 0, prices, trans, dp));
     }
-    if(dp[index][buy][trans]!=-1){
-        return dp[index][buy][trans];
-    }
-    
-     if(buy){
-        return dp[index][buy][trans]=max( f(index+1, 0, prices, trans,dp) - prices[index], f(index+1, 1,prices,trans,dp));
-     }
-     
-       return dp[index][buy][trans]= max(f(index+1,1,prices,trans-1,dp) + prices[index], f(index+1, 0, prices,trans,dp));
-     
-     
-}
     int maxProfit(int k, vector<int>& prices) {
         int n = prices.size();
-         vector<vector<vector<int>>>dp(n,vector<vector<int>>(2,vector<int>(k+1,-1)));
-         return f(0,1,prices,k,dp);
+         vector<vector<int>>after(2, vector<int>(k + 1, 0));
+          vector<vector<int>>curr(2, vector<int>(k + 1, 0));
+        for (int index = n - 1; index >= 0; index--) {
+            for (int buy = 0; buy <= 1; buy++) {
+                for (int trans = 1; trans <= k; trans++) {
+                    if (buy == 1) {
+                        curr[buy][trans] =
+                            max(after[0][trans] - prices[index],
+                                after[1][trans]);
+                    }
+
+                    else {
+                         curr[buy][trans] =
+                            max(after[1][trans - 1] + prices[index],
+                                after[0][trans]);
+                    }
+                }
+                after=curr;
+            }
+        }
+        return after[1][k];
     }
-    };
+};
