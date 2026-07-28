@@ -17,7 +17,22 @@ int f(int index, bool buy, vector<int>&prices, int trans, vector<vector<vector<i
      
 }
     int maxProfit(vector<int>& prices) {
-        vector<vector<vector<int>>>dp(prices.size(), vector<vector<int>>(2,vector<int>(3,-1)));
-        return f(0,1,prices,2,dp);
+        int n= prices.size();
+       vector<vector<double>>after(2,vector<double>(3,0));
+       vector<vector<double>>curr(2,vector<double>(3,0));
+        for(int index=n-1;index>=0;index--){
+            for(int buy=0;buy<=1;buy++){
+                for(int trans=1;trans<=2;trans++){
+                    if(buy==1){
+                        curr[buy][trans]=max( after[0][trans] - prices[index], after[1][trans]);
+                    }
+                    else{
+                       curr[buy][trans]= max(after[1][trans-1]  + prices[index],after[0][trans]);
+                    }
+                }
+                after=curr;
+            }
+        }
+        return after[1][2];
     }
 };
