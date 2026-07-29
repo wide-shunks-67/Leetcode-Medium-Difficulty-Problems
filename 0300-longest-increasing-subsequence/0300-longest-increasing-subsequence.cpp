@@ -20,18 +20,20 @@ public:
     int lengthOfLIS(vector<int>& nums) {
 
         int n = nums.size();
-        vector<vector<int>> dp(n+1, vector<int>(n + 1, 0));
+        vector<int>after(n + 1, 0);
+        vector<int>curr(n + 1, 0);
         for (int i = n - 1; i >= 0; i--) {
             for (int j = i; j >= 0; j--) {
                 //not take
-                int len = dp[i+1][j];
+                int len = after[j];
                 // take
                 if (j == 0 || nums[i] > nums[j-1]) {
-                    len = max(len, 1 +dp[i+1][i+1]);
+                    len = max(len, 1 + after[i+1]);
                 }
-                dp[i][j] = len;
+                curr[j] = len;
             }
+            after=curr;
         }
-        return dp[0][0];
+        return after[0];
     }
 };
