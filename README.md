@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0931-minimum-falling-path-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1048-longest-string-chain](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0846-hand-of-straights) |
+| [1048-longest-string-chain](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1048-longest-string-chain) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2784-check-if-array-is-good) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0583-delete-operation-for-two-strings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0696-count-binary-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0696-count-binary-substrings) |
+| [1048-longest-string-chain](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1048-longest-string-chain) |
 | [3794-reverse-string-prefix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1143-longest-common-subsequence) |
@@ -336,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1048-longest-string-chain](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
