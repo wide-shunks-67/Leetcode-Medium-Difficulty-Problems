@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
