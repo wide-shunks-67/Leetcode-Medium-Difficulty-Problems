@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0860-lemonade-change) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1048-longest-string-chain) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1021-remove-outermost-parentheses) |
@@ -582,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
