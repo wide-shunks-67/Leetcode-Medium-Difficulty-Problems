@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0064-minimum-path-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0410-split-array-largest-sum) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0064-minimum-path-sum) |
