@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
