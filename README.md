@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0355-design-twitter) |
 | [3815-design-auction-system](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/3815-design-auction-system) |
 ## Simulation
@@ -628,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
