@@ -13,11 +13,12 @@ class Solution {
 public:
 int result=-1;
 bool found=false;
-void inorder(TreeNode* root,int &cnt, int &k){
+int cnt=0;
+void inorder(TreeNode* root, int &k){
     if(!root||found)return ;
    
     if(root->left){
-        inorder(root->left,cnt,k);
+        inorder(root->left,k);
     }
     cnt++;
     if(cnt==k){
@@ -27,14 +28,14 @@ void inorder(TreeNode* root,int &cnt, int &k){
     }
 
     if(root->right){
-        inorder(root->right,cnt,k);
+        inorder(root->right,k);
     }
 }
     int kthSmallest(TreeNode* root, int k) {
         if(!root)return-1;
-       int cnt=0;
+     
        found=false;
-        inorder(root,cnt,k);
+        inorder(root,k);
         return result;
     }
 };
