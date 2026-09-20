@@ -20,9 +20,7 @@ public:
             return;
         helper(root);
         if (first && second) {
-            int temp = first->val;
-            first->val = second->val;
-            second->val = temp;
+            swap(first->val,second->val);
         }
     }
     void helper(TreeNode* root) {
