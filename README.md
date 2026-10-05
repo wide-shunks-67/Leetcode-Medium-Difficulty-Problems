@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0547-number-of-provinces) |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
