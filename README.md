@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0146-lru-cache) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/wide-shunks-67/Leetcode-Medium-Difficulty-Problems/tree/master/0547-number-of-provinces) |
